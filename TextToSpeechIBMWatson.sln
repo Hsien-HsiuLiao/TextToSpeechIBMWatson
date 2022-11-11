@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechIBMWatson", "TextToSpeechIBMWatson\TextToSpeechIBMWatson.csproj", "{2B8F347D-2AAB-45E2-A669-AE6A4FAACC61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8F347D-2AAB-45E2-A669-AE6A4FAACC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8F347D-2AAB-45E2-A669-AE6A4FAACC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8F347D-2AAB-45E2-A669-AE6A4FAACC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8F347D-2AAB-45E2-A669-AE6A4FAACC61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8097D43-317D-458F-BB38-BFD8D6C0AC4A}
+	EndGlobalSection
+EndGlobal
